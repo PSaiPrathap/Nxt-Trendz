@@ -2,8 +2,7 @@ In this project, let's build a **Nxt Trendz - Cart Features** by applying the co
 
 ### Refer to the video below:
 
-[![Watch the video](https://assets.ccbp.in/frontend/content/react-js/nxt-trendz-cart-features-lg-output.png)](https://assets.ccbp.in/frontend/content/react-js/nxt-trendz-cart-features-output.mp4)
-
+https://github.com/user-attachments/assets/15c21dee-d913-4c6f-b5c2-bcbc53d6cffe
 
 <br/>
 <div style="text-align: center;">
